@@ -10,7 +10,7 @@
 
 <p align="center">
   <a href="https://github.com/Abhiram123-hub">
-    <img src="https://img.shields.io/github/followers/Abhiram123-hub?label=Followers&style=flat"/>
+
   </a>
   <img src="https://komarev.com/ghpvc/?username=Abhiram123-hub&label=Profile%20Views&color=blue&style=flat"/>
 </p>
@@ -29,7 +29,7 @@ I enjoy building applications that combine:
 * Well-structured databases
 * Reliable software architecture
 
-My interests include full-stack development, backend engineering, system design, and building software products that solve real-world problems.
+My interests include full-stack development, system design, and building software products that solve real-world problems.
 
 ---
 
