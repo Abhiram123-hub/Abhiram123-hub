@@ -82,8 +82,6 @@ I focus on writing quality software by applying strong programming fundamentals,
 
 **Technologies:** Python | Computer Vision | CNN | Multi-Object Tracking | Real-Time Systems
 
-🔗 GitHub Repository: Add Link
-
 * Developed a software system that converts broadcast football footage into an interactive analysis environment.
 * Designed processing pipelines for player detection, tracking, and performance metric extraction.
 * Built modular components focused on scalability, reliability, and efficient data processing.
@@ -94,8 +92,6 @@ I focus on writing quality software by applying strong programming fundamentals,
 ## 🤖 No-Code Robotics Planning Simulator
 
 **Technologies:** Application Development | Simulation Systems | UI Design | Automation
-
-🔗 GitHub Repository: Add Link
 
 * Designed and developed a drag-and-drop application for creating robotics workflows without programming.
 * Built intuitive user interfaces to simplify complex automation planning.
@@ -108,8 +104,6 @@ I focus on writing quality software by applying strong programming fundamentals,
 
 **Technologies:** Full-Stack Development | Database Management | Web Applications
 
-🔗 GitHub Repository: Add Link
-
 * Developed a web-based platform connecting users with shelters, food banks, and volunteer programs.
 * Designed responsive and accessible user interfaces focused on usability.
 * Structured backend data organization for efficient resource retrieval.
@@ -120,8 +114,6 @@ I focus on writing quality software by applying strong programming fundamentals,
 ## 🏥 MediClinic — Hospital Management System
 
 **Technologies:** C++ | Object-Oriented Programming | Data Structures
-
-🔗 Bitbucket Repository: Add Link
 
 * Developed a backend system managing patient records, appointments, billing, and hospital workflows.
 * Applied object-oriented programming principles to create modular and maintainable software.
@@ -134,8 +126,6 @@ I focus on writing quality software by applying strong programming fundamentals,
 
 **Technologies:** Computer Networks | VLAN | Routing Protocols | Network Architecture
 
-🔗 GitHub Repository: Add Link
-
 * Designed and simulated a scalable campus network infrastructure.
 * Implemented VLAN segmentation and routing strategies.
 * Improved network organization, security, and traffic management.
@@ -146,8 +136,6 @@ I focus on writing quality software by applying strong programming fundamentals,
 ## 🎮 Pollution Patrol — Python Arcade Game
 
 **Technologies:** Python | Pygame | Game Development
-
-🔗 GitHub Repository: Add Link
 
 * Developed an interactive arcade game featuring collision detection and game-state management.
 * Implemented scoring systems, enemy behavior, and dynamic difficulty scaling.
