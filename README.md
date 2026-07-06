@@ -1,18 +1,11 @@
 # ABHIRAM REDDY MUKKALA
 
 <p align="center">
-  <b>Software Engineer | Full-Stack Developer | Software Developer</b>
+  <b>Software Engineer | Software Developer | Full-Stack Developer</b>
 </p>
 
 <p align="center">
-
-</p>
-
-<p align="center">
-  <a href="https://github.com/Abhiram123-hub">
-
-  </a>
-  <img src="https://komarev.com/ghpvc/?username=Abhiram123-hub&label=Profile%20Views&color=blue&style=flat"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=2563EB&center=true&vCenter=true&width=700&lines=Building+Scalable+Software+Solutions;Full-Stack+Web+Developer;Passionate+About+Clean+Code+%26+Engineering" />
 </p>
 
 ---
@@ -29,7 +22,9 @@ I enjoy building applications that combine:
 * Well-structured databases
 * Reliable software architecture
 
-My interests include full-stack development, system design, and building software products that solve real-world problems.
+My interests include full-stack development, backend engineering, software design, and building products that solve real-world problems.
+
+I focus on writing quality software by applying strong programming fundamentals, problem-solving skills, and modern development practices.
 
 ---
 
@@ -62,14 +57,14 @@ My interests include full-stack development, system design, and building softwar
 
 <p>
 <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"/>
-<img src="https://img.shields.io/badge/Express.js-black?style=for-the-badge&logo=express&logoColor=white"/>
+<img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/>
 <img src="https://img.shields.io/badge/REST%20APIs-02569B?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Object%20Oriented%20Programming-blue?style=for-the-badge"/>
 </p>
 
 ---
 
-## Databases & Development Tools
+## Databases & Tools
 
 <p>
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
@@ -83,35 +78,41 @@ My interests include full-stack development, system design, and building softwar
 
 # 🚀 Featured Projects
 
-## ⚽ PRIME-VR — Football Analytics System
+## ⚽ PRIME-VR — AI Football Analytics System
 
-**Technologies:** Python | Computer Vision | Software Architecture | Real-Time Systems
+**Technologies:** Python | Computer Vision | CNN | Multi-Object Tracking | Real-Time Systems
 
-* Developed a software system for converting football footage into an interactive analysis environment.
-* Designed processing pipelines for player tracking and performance data extraction.
-* Built modular components focused on scalability, reliability, and real-time performance.
-* Optimized application workflows for efficient data processing.
+🔗 GitHub Repository: Add Link
+
+* Developed a software system that converts broadcast football footage into an interactive analysis environment.
+* Designed processing pipelines for player detection, tracking, and performance metric extraction.
+* Built modular components focused on scalability, reliability, and efficient data processing.
+* Optimized workflows for real-time analysis and immersive visualization.
 
 ---
 
 ## 🤖 No-Code Robotics Planning Simulator
 
-**Technologies:** Application Development | Simulation Systems | UI Design
+**Technologies:** Application Development | Simulation Systems | UI Design | Automation
 
-* Designed and developed an intuitive drag-and-drop application for robotics workflow planning.
-* Built user-focused interfaces to simplify complex automation processes.
-* Implemented validation systems and workflow optimization features.
-* Focused on maintainable architecture and scalable application design.
+🔗 GitHub Repository: Add Link
+
+* Designed and developed a drag-and-drop application for creating robotics workflows without programming.
+* Built intuitive user interfaces to simplify complex automation planning.
+* Integrated simulation workflows to analyze task sequencing and operational feasibility.
+* Implemented validation logic and performance metrics for workflow optimization.
 
 ---
 
 ## 🏠 Hope Haven — Shelter Resource Platform
 
-**Technologies:** Full Stack Development | Database Management | Web Applications
+**Technologies:** Full-Stack Development | Database Management | Web Applications
 
-* Developed a web-based platform connecting users with shelters, food banks, and volunteer resources.
-* Designed responsive user interfaces with focus on accessibility and usability.
-* Structured backend data models for efficient information retrieval.
+🔗 GitHub Repository: Add Link
+
+* Developed a web-based platform connecting users with shelters, food banks, and volunteer programs.
+* Designed responsive and accessible user interfaces focused on usability.
+* Structured backend data organization for efficient resource retrieval.
 * Built scalable resource management functionality.
 
 ---
@@ -120,52 +121,55 @@ My interests include full-stack development, system design, and building softwar
 
 **Technologies:** C++ | Object-Oriented Programming | Data Structures
 
-* Developed a backend management system for patient records, appointments, billing, and workflows.
-* Applied object-oriented design principles for modular and maintainable software.
-* Improved data handling efficiency through optimized structures.
+🔗 Bitbucket Repository: Add Link
+
+* Developed a backend system managing patient records, appointments, billing, and hospital workflows.
+* Applied object-oriented programming principles to create modular and maintainable software.
+* Improved data organization and retrieval efficiency.
 * Designed reliable healthcare workflow management features.
 
 ---
 
 ## 🌐 Campus Networking Simulation
 
-**Technologies:** Computer Networks | Network Architecture | Routing
+**Technologies:** Computer Networks | VLAN | Routing Protocols | Network Architecture
+
+🔗 GitHub Repository: Add Link
 
 * Designed and simulated a scalable campus network infrastructure.
 * Implemented VLAN segmentation and routing strategies.
 * Improved network organization, security, and traffic management.
+* Applied networking concepts to model enterprise-level systems.
 
 ---
 
 ## 🎮 Pollution Patrol — Python Arcade Game
 
-**Technologies:** Python | Pygame | Software Development
+**Technologies:** Python | Pygame | Game Development
 
-* Developed an interactive game application with collision detection and game-state management.
-* Implemented scoring systems and dynamic difficulty progression.
-* Applied software design concepts to create an engaging user experience.
+🔗 GitHub Repository: Add Link
+
+* Developed an interactive arcade game featuring collision detection and game-state management.
+* Implemented scoring systems, enemy behavior, and dynamic difficulty scaling.
+* Applied software design principles to create an engaging user experience.
 
 ---
 
 # 📊 GitHub Statistics
 
 <p align="center">
-
 <img src="https://github-readme-stats.vercel.app/api?username=Abhiram123-hub&show_icons=true&theme=github_dark&hide_border=true"/>
-
 </p>
 
 <p align="center">
-
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abhiram123-hub&layout=compact&theme=github_dark&hide_border=true"/>
-
 </p>
 
 ---
 
 # 💼 Career Interests
 
-Currently interested in opportunities related to:
+I am interested in opportunities related to:
 
 * Software Engineer
 * Software Developer
@@ -175,12 +179,22 @@ Currently interested in opportunities related to:
 
 ---
 
+# 📚 Currently Learning
+
+* Advanced Data Structures & Algorithms
+* System Design
+* Scalable Backend Architecture
+* Cloud Technologies
+* Modern Full-Stack Development Practices
+
+---
+
 # 📫 Connect With Me
 
 <p>
 
 <a href="mailto:mukkalaabhiram2004@gmail.com">
-<img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail"/>
+<img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 <a href="https://linkedin.com/in/abhiram-mukkala-b0373b284">
