@@ -155,18 +155,6 @@ I focus on writing quality software by applying strong programming fundamentals,
 
 ---
 
-# 📊 GitHub Statistics
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Abhiram123-hub&show_icons=true&theme=github_dark&hide_border=true"/>
-</p>
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abhiram123-hub&layout=compact&theme=github_dark&hide_border=true"/>
-</p>
-
----
-
 # 💼 Career Interests
 
 I am interested in opportunities related to:
